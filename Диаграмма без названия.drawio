@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T17:11:58.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Tw1RpdYDB-7ppbsJ0wzA" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T17:12:30.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wmp4rDwct3W2B6UJqnSP" version="24.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1217" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="m994420aG1mh06NTiCLv-52" value="id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PrimaryKey&lt;br&gt;name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Required&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;products&amp;nbsp; &amp;nbsp; &amp;nbsp; Set" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="m994420aG1mh06NTiCLv-51" vertex="1">
           <mxGeometry y="30" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="m994420aG1mh06NTiCLv-53" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="m994420aG1mh06NTiCLv-42" edge="1">
+        <mxCell id="m994420aG1mh06NTiCLv-53" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="m994420aG1mh06NTiCLv-42" target="m994420aG1mh06NTiCLv-52" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="590" y="197.5" as="sourcePoint" />
             <mxPoint x="800" y="190" as="targetPoint" />
@@ -106,11 +106,6 @@
               <mxPoint x="520.64" y="163.84" />
               <mxPoint x="520.64" y="181.34" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TdlpxwAAD8NP33QI5YBr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m994420aG1mh06NTiCLv-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m994420aG1mh06NTiCLv-32" value="CartItem" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
